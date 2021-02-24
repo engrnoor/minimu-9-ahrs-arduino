@@ -1,6 +1,6 @@
 # MinIMU9ArduinoAHRS
 # Pololu MinIMU-9 + Arduino AHRS (Attitude and Heading Reference System)
-
+#
 # Copyright (c) 2011 Pololu Corporation.
 # http://www.pololu.com/
 

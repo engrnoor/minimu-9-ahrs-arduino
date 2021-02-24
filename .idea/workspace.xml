@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6c6ee27f-7e04-4610-b74e-dfd6455bb876" name="Default Changelist" comment="" />
+    <list default="true" id="6c6ee27f-7e04-4610-b74e-dfd6455bb876" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/MinIMU-9-test.py" beforeDir="false" afterPath="$PROJECT_DIR$/MinIMU-9-test.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="rnoor" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ov2p04z71cbnnZVb8gINjCfGd9" />
   <component name="ProjectViewState">
@@ -26,5 +36,27 @@
       <updated>1614152922939</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="intial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="intial commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1067" y="89" key="CommitChangelistDialog2" timestamp="1614154044058">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1067" y="89" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1614154044058" />
+    <state x="1033" y="253" key="Vcs.Push.Dialog.v2" timestamp="1614153997400">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1033" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1614153997400" />
+    <state x="1258" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1614153984479">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1258" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1614153984479" />
+    <state x="1210" y="422" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1614154127011">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1210" y="422" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1614154127011" />
   </component>
 </project>
